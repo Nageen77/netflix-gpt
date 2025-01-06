@@ -5,7 +5,7 @@ function App() {
     <div className="font-3xl font-bold text-green-800">
       <header className="App-header">
         <p>
-         Hello React !!!
+         Hello React !!
         </p>
       </header>
     </div>
