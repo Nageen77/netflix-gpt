@@ -1,14 +1,8 @@
 
-
+import Body from "./components/Body";
 function App() {
   return (
-    <div className="font-3xl font-bold text-green-800">
-      <header className="App-header">
-        <p>
-         Hello React !!
-        </p>
-      </header>
-    </div>
+    <Body/>
   );
 }
 
